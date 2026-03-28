@@ -1,1 +1,1 @@
-# Task1-Contrast-Stretching-of-Image
+# Contrast-Stretching-of-Image
